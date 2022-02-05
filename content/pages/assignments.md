@@ -6,20 +6,129 @@ uid: 838a2da9-27af-0be5-2f5e-dc7522c8f27f
 
 Five small assignments are due in the class, based around three major themes: light, detail, and poetics.
 
-| WEEK # | TOPICS |
-| --- | --- |
-| 1 | Lecture - Introduction: 9/11 / Camera, Light ([PDF]({{< baseurl >}}/resources/assn0)) |
-| 2 | Image Viewing - Light Assignment ([PDF]({{< baseurl >}}/resources/assn1)) |
-| 3 | Image Viewing - Detail Assignment / Web Design ([PDF]({{< baseurl >}}/resources/assn2)) |
-| 4 | Museum Visit - HMNH, Dinner in Harvard Square |
-| 5 | In-class Work on Web Site Building ([PDF]({{< baseurl >}}/resources/assn3)) |
-| 6 | Review of Assignment 3 - Web Sites / Themes |
-| 7 | Optional Class Meeting Due to Midterm Exams ([PDF]({{< baseurl >}}/resources/assn4)) |
-| 8 | Image Viewing - Poetics Assignment, Themes |
-| 9 | Walking Tour of Campus Art and Architecture |
-| 10 | Working Session in Lab - Individual Review ([PDF]({{< baseurl >}}/resources/assn5)) |
-| 12 | Working Session in Lab - Pre-Review |
-| 13 | Final Review 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+WEEK #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Lecture - Introduction: 9/11 / Camera, Light ([PDF]({{< baseurl >}}/resources/assn0))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Image Viewing - Light Assignment ([PDF]({{< baseurl >}}/resources/assn1))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Image Viewing - Detail Assignment / Web Design ([PDF]({{< baseurl >}}/resources/assn2))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Museum Visit - HMNH, Dinner in Harvard Square
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+In-class Work on Web Site Building ([PDF]({{< baseurl >}}/resources/assn3))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Review of Assignment 3 - Web Sites / Themes
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Optional Class Meeting Due to Midterm Exams ([PDF]({{< baseurl >}}/resources/assn4))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Image Viewing - Poetics Assignment, Themes
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Walking Tour of Campus Art and Architecture
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Working Session in Lab - Individual Review ([PDF]({{< baseurl >}}/resources/assn5))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Working Session in Lab - Pre-Review
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Final Review
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Major Assignment: Light
 -----------------------
