@@ -4,6 +4,7 @@ description: This resource contains problems on theme or story you might like to
   in photographs for the final review.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/4-a21-stories-without-words-photographing-the-first-year-fall-2006/db3eabd6df7c1d35fa5a073f9e8d284b_assn5.pdf
 file_type: application/pdf
+parent_uid: 838a2da9-27af-0be5-2f5e-dc7522c8f27f
 resourcetype: Document
 title: assn5.pdf
 uid: db3eabd6-df7c-1d35-fa5a-073f9e8d284b
